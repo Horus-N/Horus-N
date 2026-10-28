@@ -67,13 +67,13 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-    </td>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+  <br>Java
+        </td>
+   <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="65" height="65" alt="Spring Boot" />
+      <br>Spring Boot
+   </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
@@ -82,22 +82,30 @@
        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
     </td>
-    <td align="center" width="96">
-       <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="48" height="48" alt="redux" />
-      <br>Redux
-    </td>
      <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-  <br>Java
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="65" height="65" alt="Spring Boot" />
-  <br>Spring Boot
-</td>
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+    </td>
+ <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="65" height="65" alt="Express.js" style="filter: invert(1);" />
+    <br>Express.js
+  </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br>Laravel
     </td>
-    <td align="center"  width="96">
+  <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="65" height="65" alt="Kafka" />
+      <br>Kafka
+   </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+  </tr>
+ 
+ <tr>
+  <td align="center"  width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
     <br>HTML5
     </td>
@@ -105,8 +113,22 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS3
     </td>
-  </tr>
-  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+       <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="48" height="48" alt="redux" />
+      <br>Redux
+    </td>
+  <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65" alt="Next.js" />
+      <br>Next.js
+   </td>
+<td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="65" height="65" alt="Vue.js" />
+      <br>Vue.js
+   </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
@@ -116,34 +138,12 @@
       <br>Tailwind
     </td>
     <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-      <br>Vite
-    </td>
-    <td align="center" width="96">
        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="sass" />
       <br>Sass
     </td>
-        <td align="center" width="96">
-       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-  </tr>
+
+ </tr>
+ 
  <tr>
      <td align="center" width="96">
        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="graphql" />
@@ -161,9 +161,13 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
+ 
+ </tr>
+
+  <tr>
+        <td align="center" width="96">
+       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="docker" />
+      <br>Docker
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
@@ -177,11 +181,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48"/>
   <br>Kubernetes
 </td>
- </tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+      <br>Vite
+    </td>
+    </td>
+         <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+  </tr>
 </table>
 <br><br>
-
-
 </div>
 
 
@@ -190,9 +213,9 @@
 <a href="https://github.com/Horus-N?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com?user=Horus-N&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 </p>
 
-<!-- activity graph heroku-app start -->
+<!-- activity graph start -->
 <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Horus-N&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
+  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=Horus-N&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph" />
 </p>
 <!-- activity graph heroku-app end -->
 
